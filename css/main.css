@@ -59,8 +59,8 @@ p {
 
 /*------------------Utilities---------------------*/
 a {
-  color: inherit;
-  font-weight: inherit;
+  color: #50A6C2;
+  font-weight: 700;
   font-size: inherit;
   text-decoration: none;
 }
